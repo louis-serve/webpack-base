@@ -1,10 +1,10 @@
 {
-  "name": "cepegra",
+  "name": "webpack-tuto",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "description": "Exercice webpack",
-  "author" : "Louis Serve",
+  "description": "Une eptite mise en place",
+  "author" : "Pierre Charlier",
   "scripts": {
     "dev": "webpack --watch --mode development",
     "build": "webpack --mode production"
